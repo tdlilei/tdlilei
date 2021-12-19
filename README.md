@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lei Li
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently in graducate school, majoring in Information System 
+- 🌱 I’m currently at baruch college, majoring in Information System 
 - 📫 Reach me by email tdlilei621@gmail.com 
 
 <!---
