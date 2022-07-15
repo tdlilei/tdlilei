@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lei Li
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently at baruch college, majoring in Information System 
+- 👀 I’m currently working as associate data architecture at IBM NYC office.
 - 📫 Reach me by email tdlilei621@gmail.com 
 
 <!---
